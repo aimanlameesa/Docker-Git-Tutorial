@@ -1,0 +1,12 @@
+version: "3"
+services:
+  aicproject:
+    build: .
+    ports:
+      - "5000:8000"
+  base64:
+    build: .
+    ports:
+      - "6000:8000"
+        
+ 
