@@ -2,9 +2,9 @@
 
 ## Dependencies for FastAPI
 
-- **pip install fastapi**
-- **pip install uvicorn**
-- **uvicorn main:app --reload**
+- pip install fastapi
+- pip install uvicorn
+- uvicorn main:app --reload
 
 ## Dependencies for Docker 
 
